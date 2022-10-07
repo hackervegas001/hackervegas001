@@ -17,6 +17,15 @@
 
 <br/>
 
+### ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,github,androidstudio,docker,md,powershell)](https://skillicons.dev)
+
+
+<br/>
+
 
 <!---
 hackervegas001/hackervegas001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
