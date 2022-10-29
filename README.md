@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning oscp (offensive-security certified professional)
 - my linkedin id - https://www.linkedin.com/in/rohit-verma001/
 
-<br><script src="https://tryhackme.com/badge/414600"></script>
+<script src="https://tryhackme.com/badge/414600"></script>
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
 <br/>
