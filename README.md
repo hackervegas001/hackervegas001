@@ -8,7 +8,7 @@
 - 👀 I’m interested in cyber security as a web application penetration tester & network penetration tester
 - 🌱 I’m currently learning oscp (offensive-security certified professional)
 - my linkedin id - https://www.linkedin.com/in/rohit-verma001/
-<a href="https://tryhackme.com/p/Zyaire"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png?0" alt="TryHackMe"></a> 
+<a href="https://tryhackme.com/badge/414600"><img src="https://tryhackme-badges.s3.amazonaws.com/vegas2?0" alt="TryHackMe"></a> 
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
 <br/>
