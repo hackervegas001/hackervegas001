@@ -5,6 +5,7 @@
 </h1>
 
 - 👋 Hi, I’m @hackervegas001
+- 💼 I'm Cyber Security Researcher
 - 👀 I’m interested in cyber security as a web application penetration tester & network penetration tester
 - 🌱 I’m currently learning oscp (offensive-security certified professional)
 - my linkedin id - https://www.linkedin.com/in/rohit-verma001/
