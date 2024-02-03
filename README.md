@@ -13,7 +13,9 @@
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
 <br/>
+
 [![My Skills](https://skillicons.dev/icons?i=python,bash,js,html)](https://skillicons.dev)
+
 <br/>
 ### ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
 <br/>
