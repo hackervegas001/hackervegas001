@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning oscp (offensive-security certified professional)
 - my linkedin id - https://www.linkedin.com/in/rohit-verma001/
 - my tryhackme top 1% rank - https://tryhackme.com/p/vegas2
+  
   <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="50" height="50">  Currently studying for OSWE certification.
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
