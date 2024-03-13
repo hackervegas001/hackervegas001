@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png">
+<img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png&size=25">
 - 👋 Hi, I’m @hackervegas001
 - 💼 I'm Cyber Security Researcher
 - 👀 I’m interested in cyber security as a web application penetration tester & network penetration tester
