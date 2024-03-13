@@ -14,6 +14,7 @@
 - my tryhackme top 1% rank - https://tryhackme.com/p/vegas2
 
 <img src="https://www.webasha.com/public/uploads/course/images/64202aac2dccd1679829676.oscp.jpg" alt="Alt text" width="50" height="50"> i have good knowledge of oscp
+<br> </br>
 <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="50" height="50">  Currently studying for OSWE certification.
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
