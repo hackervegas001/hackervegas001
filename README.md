@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+hackervegas001.....;Nice+to+see+you....!&size=50">
   </a>
 </h1>
-<img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="25" height="25">
+<img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="30" height="30">
 
 
 - 👋 Hi, I’m @hackervegas001
