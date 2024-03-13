@@ -15,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" alt="Alt text" width="55" height="55"> I have good knowledge of oscp
 <br> </br>
-<img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="50" height="50">  Currently studying for OSWE certification.
+<img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="52" height="52">  Currently studying for OSWE certification.
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
 <br/>
