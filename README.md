@@ -1,22 +1,7 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Typing Animation</title>
-</head>
-<body>
-  <h1 align="left">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+hackervegas001.....;Nice+to+see+you....!&size=50">
-    </a>
-  </h1>
-</body>
-</html>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+hackervegas001.+Nice+to+see+you)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @hackervegas001
 - 💼 I'm Cyber Security Researcher
