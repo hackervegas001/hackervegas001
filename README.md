@@ -10,7 +10,7 @@
 - my linkedin id - https://www.linkedin.com/in/rohit-verma001/
 - my tryhackme top 1% rank - https://tryhackme.com/p/vegas2
 
-<img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" alt="Alt text" width="55" height="55"> I have good knowledge of oscp
+<img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" alt="Alt text" width="55" height="55"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&random=false&width=435&lines=I+have+good+knowledge+of+oscp)](https://git.io/typing-svg)
 <br> </br>
 <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="52" height="52">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&random=false&width=435&lines=Currently+studying+for+OSWE+certification.)](https://git.io/typing-svg)
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
