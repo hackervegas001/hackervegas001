@@ -3,10 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+hackervegas001.+Nice+to+see+you)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @hackervegas001
-- 💼 I'm Cyber Security Researcher
-- 👀 I’m interested in cyber security as a web application penetration tester & network penetration tester
-- 🌱 I’m currently learning oscp (offensive-security certified professional)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40hackervegas001)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=%F0%9F%92%BC+I'm+Cyber+Security+Researcher)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+cyber+security+as+a+web+application+penetration+tester+%26+network+penetration+tester)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+oscp+(offensive-security+certified+professional))](https://git.io/typing-svg)
 - my linkedin id - https://www.linkedin.com/in/rohit-verma001/
 - my tryhackme top 1% rank - https://tryhackme.com/p/vegas2
 
