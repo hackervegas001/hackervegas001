@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+hackervegas001.....;Nice+to+see+you....!&size=50">
   </a>
 </h1>
-<img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="50" height="50">
+
 
 
 - 👋 Hi, I’m @hackervegas001
@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning oscp (offensive-security certified professional)
 - my linkedin id - https://www.linkedin.com/in/rohit-verma001/
 - my tryhackme top 1% rank - https://tryhackme.com/p/vegas2
+- <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" alt="Alt text" width="50" height="50">  Currently studying for OSWE certification.
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
 <br/>
