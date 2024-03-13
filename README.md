@@ -3,12 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+hackervegas001.+Nice+to+see+you)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40hackervegas001)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=%F0%9F%92%BC+I'm+Cyber+Security+Researcher)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=+I%E2%80%99m+interested+in+cyber+security+as+a+web+;application+penetration+tester+%26+network+;penetration+tester.)](https://git.io/typing-svg)
-
-my linkedin id - https://www.linkedin.com/in/rohit-verma001/
-my tryhackme top 1% rank - https://tryhackme.com/p/vegas2
+-👋 Hi, I’m @hackervegas001
+-💼 I'm Cyber Security Researcher
+-👀 I’m interested in cyber security as a web application penetration tester & network penetration tester
+-my linkedin id - https://www.linkedin.com/in/rohit-verma001/
+-my tryhackme top 1% rank - https://tryhackme.com/p/vegas2
 
 <img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" alt="Alt text" width="55" height="55"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&random=false&width=435&lines=I+have+good+knowledge+of+oscp)](https://git.io/typing-svg)
 <br> </br>
