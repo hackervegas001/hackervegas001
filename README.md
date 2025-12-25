@@ -6,8 +6,9 @@
 - 👋 Hi, I’m @hackervegas001
 - 💼 I'm Cyber Security Researcher
 - 👀 I’m interested in cyber security as a web application penetration tester & network penetration tester
-- my linkedin id - https://www.linkedin.com/in/rohit-verma001/
-- my tryhackme top 1% rank - https://tryhackme.com/p/hackervegas001
+- My linkedin id - https://www.linkedin.com/in/rohit-verma001/
+- My tryhackme top 1% rank - https://tryhackme.com/p/hackervegas001
+- My Website - http://hackervegas001.com
 
 <img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" alt="Alt text" width="55" height="55"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&random=false&width=435&lines=I+have+good+knowledge+of+oscp)](https://git.io/typing-svg)
 <br> </br>
