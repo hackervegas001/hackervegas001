@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @hackervegas001
 - 💼 I'm Cyber Security Researcher
 - 👀 I’m interested in cyber security as a web application penetration tester & network penetration tester
-- My Linkedin id - https://www.linkedin.com/in/rohit-verma001/
+- My Linkedin id - https://www.linkedin.com/in/hackervegas001
 - My TryHackMe top 1% rank - https://tryhackme.com/p/hackervegas001
 - My Website - http://hackervegas001.com
 
